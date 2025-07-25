@@ -3,8 +3,6 @@ pandas
 plotly
 openpyxl
 streamlit-authenticator
-streamlit
-pandas
 numpy
 datetime 
 base64
